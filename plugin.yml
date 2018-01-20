@@ -2,3 +2,8 @@ name: FYReputation
 version: 1.0.0
 author: Fuizziy
 main: fr.fuizziy.reputation.Reputation
+commands:
+  reputation:
+    description: main reputation command
+    permission: fyreputation.main 
+    aliases: [rep, frep, fyrep, fyr]
